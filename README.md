@@ -117,3 +117,8 @@ $ sh remove_odoo.sh
 ![odoo-14-sales](screenshots/odoo-14-sales-screen.png)
 
 ![odoo-14-form](screenshots/odoo-14-sales-form.png)
+
+#Forking minhng92 for testing purpose:
+
+Pass on /etc/odoo.conf line 5 [admin_passwd] for database connection on Odoo Setup:
+!testing
