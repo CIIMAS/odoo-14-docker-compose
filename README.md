@@ -79,7 +79,7 @@ logfile = /etc/odoo/odoo-server.log
 admin_passwd = minhng.info
 ```
 
-* Default database password (**admin_passwd**) is `minhng.info`, please change it!
+* Default database password (**admin_passwd**) is `!testing`, please change it!
 
 # Odoo container management
 
